@@ -1,0 +1,18 @@
+---
+object: set
+id: 659f3361-e6e9-4891-925f-1d6795bab6ab
+code: pnph
+name: New Phyrexia Promos
+uri: https://api.scryfall.com/sets/659f3361-e6e9-4891-925f-1d6795bab6ab
+scryfall_uri: https://scryfall.com/sets/pnph
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apnph&unique=prints
+released_at: '2011-05-12'
+set_type: promo
+card_count: 4
+parent_set_code: nph
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: som
+block: Scars of Mirrodin
+icon_svg_uri: https://svgs.scryfall.io/sets/nph.svg?1694404800
